@@ -24,6 +24,7 @@ namespace Thunders.TechTest.Tests.Fixtures
         public void Dispose()
         {
             // Cleanup se necessário
+            //teste
         }
     }
 }
